@@ -1,0 +1,23 @@
+{
+  "name": "talkify",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ShreyasNimase/mern-chat-app#readme",
+  "bugs": {
+    "url": "https://github.com/ShreyasNimase/mern-chat-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyasNimase/mern-chat-app.git"
+  },
+  "license": "ISC",
+  "author": "Shreyas Nimase",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
